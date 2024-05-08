@@ -2,6 +2,8 @@
 #include <stdbool.h>
 #include <string.h>
 
+// Make sure to compile this file and run it seperately in cmd for the full experience
+
 #define MAX_STUDENTS 100
 #define MAX_SUBJECTS 5
 #define DATABASE_FILE "student_database.txt"
